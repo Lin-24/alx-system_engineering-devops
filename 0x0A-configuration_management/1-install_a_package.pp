@@ -1,4 +1,4 @@
-#!/usr/bin/puppet apply
+#!/usr/bin/pup
 #Install a specific version of flask
 
 package { 'flask':
