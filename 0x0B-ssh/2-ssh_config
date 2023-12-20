@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# SSH client configuration
+# SSH client configuration to use the private key
 
 Host *
   PasswordAuthentication no

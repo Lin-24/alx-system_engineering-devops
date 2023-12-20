@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # SSH client configuration file to connect to a server without typing a password
+# using Puppet
 
 file { '/etc/ssh/ssh_config':
   ensure => present,
