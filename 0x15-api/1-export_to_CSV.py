@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Retrieves employee's TODO list progress from an API and exports in  CSV format"""
+"""Retrieves employee's TODO list progress from an API
+   and exports in  CSV format
+"""
 
 from json import load
 import requests
