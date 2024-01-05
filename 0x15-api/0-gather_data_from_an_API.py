@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Retrieves employee's TODO list progress from an API"""
 
-from json import load
 from sys import argv
+from json import load
 import requests
 
 
