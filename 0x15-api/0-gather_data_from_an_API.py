@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """Retrieves employee's TODO list progress from an API"""
 
-from sys import argv
 from json import load
 import requests
+from sys import argv
 
 
 if __name__ == "__main__":
